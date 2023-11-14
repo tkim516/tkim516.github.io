@@ -23,7 +23,15 @@ body {
     align-items: center;
     text-align: center;
   
-    background-color: black;
-    color: white;
+    background-color: rgb(251, 248, 248);
+    color: rgb(199, 42, 42);
     padding: 0px 0px;
 }
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    right: 30px;
+    list-style: none;
+  }
