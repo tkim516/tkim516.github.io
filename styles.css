@@ -42,8 +42,8 @@ body {
 }
 
 .about-image img {
-    width: 10%;
-    height: 70%;
+    width: 80%;
+    height: 50%;
     object-fit: cover; /* This property will crop the image */
 }
 .navbar {
