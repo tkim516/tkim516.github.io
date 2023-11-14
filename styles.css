@@ -49,6 +49,16 @@ body {
     height: 100%;
     object-fit: cover; /* This property will crop the image */
 }
+
+.about-text {
+    color: white;
+    font-weight: lighter;
+    margin: 0 12px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
 .navbar {
     position: -webkit-sticky;
     position: sticky;
