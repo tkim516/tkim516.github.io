@@ -41,6 +41,7 @@ body {
     width: 500px; /* Set your desired width */
     height: 500px; /* Set your desired height */
     overflow: hidden;
+    margin-left: auto;
 }
 
 .about-image img {
