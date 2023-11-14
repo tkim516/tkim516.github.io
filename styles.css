@@ -119,7 +119,6 @@ body {
 
 .navbar a:hover {
     color: green;
-    text-decoration: underline;
 }
   
   .navbar a:active {
