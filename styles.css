@@ -10,8 +10,8 @@ body {
 }
 
   .background-image {
-    width: 110%;
-    height: 110%;
+    width: 10%;
+    height: 10%;
     object-fit: cover;
     position: fixed;
     top: 0;
