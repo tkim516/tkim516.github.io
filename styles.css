@@ -20,8 +20,8 @@ body {
   
     display: flex;
     justify-content: space-between;
-    align-items: right;
-    text-align: right;
+    align-items: center;
+    text-align: center;
   
     background-color: white;
     color: black;
@@ -32,7 +32,7 @@ body {
     display: flex;
     flex-direction: row;
     position: relative;
-    right: 0px;
+    right: -100px;
     list-style: none;
   }
 
