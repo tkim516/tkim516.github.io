@@ -23,8 +23,8 @@ body {
     align-items: center;
     text-align: center;
   
-    background-color: rgb(251, 248, 248);
-    color: rgb(199, 42, 42);
+    background-color: white;
+    color: black;
     padding: 0px 0px;
 }
 
@@ -34,4 +34,12 @@ body {
     position: relative;
     right: 30px;
     list-style: none;
+  }
+
+  .navbar a {
+    color: white;
+    font-weight: bold;
+    margin: 0 12px;
+    text-decoration: none;
+    letter-spacing: 2px;
   }
