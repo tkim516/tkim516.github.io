@@ -48,6 +48,7 @@ body {
     margin-left: 176.999px;
     margin-top: 50px;
     left: 0;
+    overflow: scroll;
     
     
 }
@@ -58,6 +59,7 @@ body {
     top: 0;
     object-fit: cover; /* This property will crop the image */
     border-radius: 50%; /* Ensure the image inside the circle is also circular */
+    
 }
 
 .about-text {
@@ -68,6 +70,7 @@ body {
     left: 0;
     margin-left: 50px;
     text-align: center;
+    overflow: scroll;
 }
 
 .about-text p {
