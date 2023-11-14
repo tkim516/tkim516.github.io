@@ -17,7 +17,7 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    width: 50%; /* 2/3 of the page */
+    width: 66.666%; /* 2/3 of the page */
     height: 100%;
     overflow: hidden;
 
