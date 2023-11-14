@@ -87,7 +87,7 @@ body {
     align-items: center;
     text-align: center;
   
-    background-color: white;
+    background-color: black;
     color: black;
     padding: 0px 0px;
 }
@@ -101,7 +101,7 @@ body {
   }
 
   .navbar a {
-    color: black;
+    color: white;
     font-weight: lighter;
     margin: 0 12px;
     text-decoration: none;
