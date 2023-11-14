@@ -19,7 +19,7 @@ body {
     z-index: 10;
   
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     text-align: center;
   
