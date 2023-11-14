@@ -52,15 +52,20 @@ body {
 }
 
 .about-text {
-    color: black;
-    font-weight: lighter;
-    margin: 0 12px;
-    text-decoration: none;
-    letter-spacing: 2px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    z-index: 1;
-
+    width: 33.333%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden; /* Ensure text stays within the container */
 }
+
+.about-text p {
+    color: white; /* Set the color of your text */
+    /* Add any other styles for your text */
+}
+
+
 .navbar {
     position: -webkit-sticky;
     position: sticky;
