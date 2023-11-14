@@ -20,7 +20,7 @@ body {
     width: 66.666%; /* 2/3 of the page */
     height: 100%;
     overflow: hidden;
-    z-index: -1;
+    z-index: -2;
 }
 .background-image::before {
     content: '';
