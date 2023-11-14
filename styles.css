@@ -42,6 +42,7 @@ body {
     height: 250px; /* Set your desired height */
     overflow: hidden;
     margin-left: 50px;
+    margin-top: -50px;
 }
 
 .about-image img {
