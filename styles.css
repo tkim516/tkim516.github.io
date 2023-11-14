@@ -38,9 +38,9 @@ body {
 
   .navbar a {
     color: black;
-    font-weight: normal;
+    font-weight: lighter;
     margin: 0 12px;
     text-decoration: none;
     letter-spacing: 2px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans','Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
