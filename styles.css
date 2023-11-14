@@ -32,7 +32,7 @@ body {
     display: flex;
     flex-direction: row;
     position: relative;
-    right: 300px;
+    right: 0px;
     list-style: none;
   }
 
