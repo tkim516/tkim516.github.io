@@ -20,7 +20,7 @@ body {
   
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: right;
     text-align: center;
   
     background-color: white;
