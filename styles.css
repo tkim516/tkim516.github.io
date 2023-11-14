@@ -70,7 +70,6 @@ body {
 .background-image {
     margin: 0;
     overflow: hidden;
-    background: url('morro-bay-wallpaper.jpeg') no-repeat center center fixed; 
         /* Adjust the background-size property for different scaling options */
     background-size: cover;
 }
