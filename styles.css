@@ -42,7 +42,7 @@ body {
 }
 
 .about-image img {
-    width: 70%;
+    width: 10%;
     height: 70%;
     object-fit: cover; /* This property will crop the image */
 }
