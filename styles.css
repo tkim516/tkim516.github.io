@@ -10,7 +10,6 @@ body {
 }
 
 .background-image {
-    background-image: url('morro-bay-wallpaper.jpeg'); /* Replace with the path to your image */
     background-size: cover;
     background-position: top right;
     background-repeat: no-repeat;
