@@ -17,7 +17,7 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    width: 66.666%; /* 2/3 of the page */
+    width: 50%; /* 1/2 of the page */
     height: 100%;
 }
 .background-image::before {
