@@ -43,7 +43,6 @@ body {
 .about-image {
     width: 250px; /* Set your desired width */
     height: 250px; /* Set your desired height */
-    overflow: hidden;
     border-radius: 50%; /* Create a circular outline */
     border: 5px solid white; /* Set the border color to match the background */
     margin-left: 176.999px;
@@ -67,7 +66,6 @@ body {
     position: absolute;
     bottom: 0;
     left: 0;
-    overflow: hidden; /* Ensure text stays within the container */
     margin-left: 50px;
     text-align: center;
 }
