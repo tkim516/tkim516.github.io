@@ -2,9 +2,6 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
-    display: flex; /* Use flexbox for centering */
-    justify-content: flex-start; /* Align items at the start (left) of the flex container */
-    align-items: center; /* Center items vertically in the flex container */
 }
 
 
