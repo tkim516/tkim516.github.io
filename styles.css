@@ -51,5 +51,5 @@ body {
 }
   
   .navbar a:active {
-    color: var(--cg-blue);
+    color: green;
 }
