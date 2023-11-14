@@ -61,7 +61,7 @@ body {
     left: 0;
     overflow: hidden; /* Ensure text stays within the container */
     margin-left: 10px;
-    margin-right: 10px;
+    margin-right: 100px;
 }
 
 .about-text p {
