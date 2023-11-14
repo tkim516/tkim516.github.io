@@ -19,6 +19,7 @@ body {
     right: 0;
     width: 66.666%; /* 2/3 of the page */
     height: 100%;
+    overflow: hidden;
 }
 .background-image::before {
     content: '';
@@ -32,6 +33,7 @@ body {
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
 
