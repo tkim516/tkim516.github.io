@@ -2,7 +2,11 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
+    display: flex; /* Use flexbox for centering */
+    justify-content: flex-start; /* Align items at the start (left) of the flex container */
+    align-items: center; /* Center items vertically in the flex container */
 }
+
 
 body {
     background-color: white;
@@ -45,8 +49,8 @@ body {
     overflow: hidden;
     border-radius: 50%; /* Create a circular outline */
     border: 5px solid white; /* Set the border color to match the background */
-    margin-left: 100px;
-    margin-top: 50px;
+    /*margin-left: 100px;
+    margin-top: 50px;*/
     top: 0;
 }
 
