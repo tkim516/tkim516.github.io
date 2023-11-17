@@ -143,7 +143,8 @@ body {
     align-items: center;
     background-color: black;
     color: white;
-    position: absolute;
+    position: bottom;
+    overflow: hidden;
     bottom: 0;
     width: 100%;
     height: 2.5rem;
