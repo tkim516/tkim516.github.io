@@ -141,7 +141,6 @@ body {
     align-items: center;
     margin-left: 25%;
     margin-right: 25%
-
 }
 .resume-section {
     display: flex;
@@ -170,13 +169,18 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
 }
 
+.download-buttom {
+    color: green;
+    text-decoration: none;
+}
+
 .footer {
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: black;
     color: white;
-    position: bottom;
+    position: absolute;
     overflow: hidden;
     bottom: 0;
     width: 100%;
